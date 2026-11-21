@@ -39,7 +39,7 @@
   .hero-top { display: flex; gap: 20px; align-items: center; }
   .hero-top img { width: 92px; height: 118px; object-fit: cover; border-radius: 12px; flex: none; }
   .hero h1 { font-size: 34px; font-weight: 800; margin: 0; line-height: 1.1; letter-spacing: .02em; }
-  .hero .en { font-size: 13px; letter-spacing: .34em; color: var(--green); font-weight: 500; margin-top: 6px; }
+  .hero .en { font-size: 16px; letter-spacing: .04em; color: var(--green); font-weight: 500; margin-top: 6px; }
   .hero .role { font-size: 14px; font-weight: 500; margin-top: 10px; }
   .hero .pitch { font-size: 22px; font-weight: 800; line-height: 1.5; margin: 32px 0 14px; letter-spacing: -.01em; }
   .hero .pitch span { color: var(--green); }
